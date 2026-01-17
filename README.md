@@ -62,17 +62,10 @@ Jupyter Notebook or Jupyter Lab
 ```
 
 ### **Installation & Setup**
-```bash
-# 1. Clone or download this repository
-     https://github.com/AhmedKadiwala/wine_spirits_analytics
-     cd wine-spirits-analytics
-
-# 2. Place your CSV files in the data/ folder
-#    Download, extract and save the dataset in data folder provided in this link [**DataSet**](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data)
-
-# 3. Launch Jupyter and run analysis
-     jupyter notebook Wine_Spirits_Analysis.ipynb
-```
+1. **Visit GitHub Repository:** [https://github.com/AhmedKadiwala/wine_spirits_analytics](https://github.com/AhmedKadiwala/wine_spirits_analytics)
+2. **Download Dataset:** [**DataSet Link**](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data) → Extract CSV files to `data/` folder
+3. **Open Analysis:** Run `Wine_Spirits_Analysis.ipynb` in Jupyter Notebook
+4. **Review Results:** All visualizations and insights will generate automatically
 
 ### **Expected Run Time**
 - **Data Loading:** 1-2 minutes
