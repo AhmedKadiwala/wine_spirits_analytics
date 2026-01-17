@@ -68,7 +68,7 @@ Jupyter Notebook or Jupyter Lab
      cd wine-spirits-analytics
 
 # 2. Place your CSV files in the data/ folder
-      Download, extract and save the dataset in data folder provided in this link [DataSet](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data)
+#    Download, extract and save the dataset in data folder provided in this link [**DataSet**](https://www.kaggle.com/datasets/sloozecareers/slooze-challenge/data)
 
 # 3. Launch Jupyter and run analysis
      jupyter notebook Wine_Spirits_Analysis.ipynb
@@ -276,7 +276,7 @@ Week 13+: 5 hours/week (monitoring and refinement)
 ### **Contact Information:**
 - **Analyst:** Ahmed Kadiwala
 - **Email:** kadiwalaahmed7864@gmail.com
-- [**LinkedIn:**]( https://www.linkedin.com/in/ahmed-kadiwala-789831265/ )
+- [**LinkedIn**]( https://www.linkedin.com/in/ahmed-kadiwala-789831265/ )
 
 ### **Support Offered:**
 - Implementation guidance
