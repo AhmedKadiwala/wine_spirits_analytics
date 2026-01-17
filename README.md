@@ -287,7 +287,7 @@ Week 13+: 5 hours/week (monitoring and refinement)
 ### **Contact Information:**
 - **Analyst:** Ahmed Kadiwala
 - **Email:** kadiwalaahmed7864@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/ahmed-kadiwala-789831265/ 
 
 ### **Support Offered:**
 - Implementation guidance
