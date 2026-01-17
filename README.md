@@ -48,16 +48,8 @@ The **70/20/10 Pareto principle** held true across both sales revenue and invent
 ```
 wine-spirits-analytics/
 │
-├── data/                           # Data directory (place your files here)
-│   ├── SalesFINAL12312016.csv      # Jan-Feb sales (Month/Day/Year format)
-│   ├── PurchasesFINAL12312016.csv  # Jan-Jun purchases
-│   ├── InvoicePurchases12312016.csv # Full year invoices
-│   ├── BegInvFINAL12312016.csv     # Beginning inventory
-│   └── EndInvFINAL12312016.csv     # Ending inventory
-│
 ├── Wine_Spirits_Analysis.ipynb     # Complete analysis notebook
-├── README.md                       # This documentation
-├── requirements.txt                # Python dependencies
+|── README.md                       # This documentation
 ```
 
 ## 🚀 **Quick Start Guide**
